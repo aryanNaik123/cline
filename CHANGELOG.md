@@ -2,12 +2,7 @@
 
 ## 3.27.0
 
-### Minor Changes
-
 - 190d4a2: support orchestration mode for sap provider
-
-### Patch Changes
-
 - 1ab3de8: Fix Ollama connection issue to default endpoint at port 11434
 - cdc2489: Optimized Cline for GPT-5 model family with an aligned system prompt
 - 4d5ab59: Add "Use custom prompt" option to Ollama provider

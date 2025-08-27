@@ -1,5 +1,20 @@
 # Changelog
 
+## 3.27.0
+
+### Minor Changes
+
+- 190d4a2: support orchestration mode for sap provider
+
+### Patch Changes
+
+- 1ab3de8: Fix Ollama connection issue to default endpoint at port 11434
+- cdc2489: Optimized Cline for GPT-5 model family with an aligned system prompt
+- 4d5ab59: Add "Use custom prompt" option to Ollama provider
+- 213591a: Fix AutoApproveModal overflowing issue
+- d4ba4fd: Dify.ai api integration
+- ca1e008: Prompt changes for deep-planning in windows/powershell
+
 ## [3.26.6]
 
 - Add free Grok Coder model to Cline provider for users looking for a fast, free coding model option
